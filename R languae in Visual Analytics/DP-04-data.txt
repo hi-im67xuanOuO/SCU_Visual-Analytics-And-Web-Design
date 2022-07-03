@@ -1,0 +1,5 @@
+id,age,sex,pay
+1,25,male,30000
+2,30,male,40000
+3,35,female,45000
+4,49,female,50000
